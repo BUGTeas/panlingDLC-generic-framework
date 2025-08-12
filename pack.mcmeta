@@ -1,6 +1,17 @@
 ﻿{
   "pack": {
     "pack_format": 15,
-    "description": "梦回盘灵 DLC 冲突修复（资源包 & 数据包）"
+    "description": [
+			{
+				"text":"梦回盘灵 DLC 冲突修复 v0.1.0",
+				"color": "gold",
+				"bold": false
+			},
+			{
+				"text":"\n资源包 & 数据包 二合一",
+				"color": "gray",
+				"bold": false
+			}
+    ]
   }
 }
