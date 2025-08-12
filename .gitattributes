@@ -1,0 +1,4 @@
+# 数据文件使用 LF 换行符
+*.mcfunction text eol=lf
+*.mcmeta text eol=lf
+*.json text eol=lf
