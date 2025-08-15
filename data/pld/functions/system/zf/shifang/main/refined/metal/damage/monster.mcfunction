@@ -1,5 +1,5 @@
 #根据实体阵法减伤率降低数据
-function #plex:system/zf/shifang/main/damage_remove
+function #plsc:system/zf/shifang/main/damage_remove
 
 
 #如果怪物血量低于zf_refined_metal_healthstg设定百分比，则伤害提升zf_mp_refined_metal_add
