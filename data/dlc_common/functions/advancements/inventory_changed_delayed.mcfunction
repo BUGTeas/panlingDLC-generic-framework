@@ -1,0 +1,1 @@
+advancement revoke @a only dlc_common:inventory_changed
