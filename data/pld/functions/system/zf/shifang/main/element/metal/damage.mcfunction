@@ -1,5 +1,5 @@
 #根据实体阵法减伤率降低数据
-execute as @e[tag=metaltag] run function #plsc:system/zf/shifang/main/damage_remove
+execute as @e[tag=metaltag] run function #dlc_generic:pld_system/zf/shifang/main/damage_remove
 
 #扣血
 scoreboard players set @e[tag=metaltag] damage_middle 0
